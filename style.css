@@ -1,0 +1,14 @@
+h1 {
+	color: #FE938C;
+	font-size: 100px
+	 ; font-family: "Playfair display", serif;
+}
+body {background: #4281A4;
+background-position : center;
+background-size: cover;
+font-family: "Spicy rice", cursive;}
+a:hover{  background: green }
+
+.box-green{
+	background: green;
+}
