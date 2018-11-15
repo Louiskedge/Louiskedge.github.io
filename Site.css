@@ -52,7 +52,7 @@ background: #ffffff;}
 
 #logo{height : 75px;}
 
-.contact{
+.contact{ position :relative;
 	height : 600px;
 width : 1300px;
 background: #ffffff; 
@@ -62,6 +62,11 @@ background: linear-gradient(to bottom, #ffffff 0%,#9ee8fa 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#9ee8fa',GradientType=0 );
 text-align: center;}
 
+#newsletter{position:absolute;
+	height:200px;
+bottom: 20%;
+right:45%;
+left:45%;}
 
 
 
