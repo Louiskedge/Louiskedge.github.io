@@ -24,6 +24,13 @@ background: -moz-linear-gradient(top, #ffffff 0%, #9ee8fa 100%);
 background: -webkit-linear-gradient(top, #ffffff 0%,#9ee8fa 100%); 
 background: linear-gradient(to bottom, #ffffff 0%,#9ee8fa 100%); 
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#9ee8fa',GradientType=0 );
-}
+font-family: 'Playfair Display', serif;
+text-align: center;}
 
 .navigation > li{flex:1;}
+
+nav li:hover, nav li:focus {background:#ffe64e ;}
+
+nav ul{list-style-type: none;
+text-decoration: none;}
+
