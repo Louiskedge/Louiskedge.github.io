@@ -15,7 +15,9 @@ border-radius: 5px;
 }
 
 nav li a{display: block;
-	color:black;}
+	color:black;
+font-family: 'Playfair Display', serif;
+}
 
 nav li:hover, nav li:focus {background:#ffe64e ;}
 
@@ -78,9 +80,6 @@ left:45%;}
 h1{text-align: center;}
 
 
-pages :
 
-.bande{display: flex;
-}
 
 
